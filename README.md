@@ -10,7 +10,7 @@ Other things to include:
 
 **Screenshot**: 
 
-![]()
+![](https://raw.githubusercontent.com/JYWTom/WFN-Clock/refs/heads/main/static/screenshot.png)
 
 
 ## Dependencies
